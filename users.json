@@ -127,6 +127,9 @@
     "blocked": false,
     "verified": false,
     "mutedUntil": null,
-    "activations": []
+    "activations": [],
+    "roles": [
+      "Старший админ, Femboy"
+    ]
   }
 }
