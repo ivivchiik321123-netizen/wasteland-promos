@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "1775664354670",
+    "author": "murzik",
+    "subject": "йоооооооооу",
+    "body": "йоооооооооу",
+    "status": "open",
+    "messages": [
+      {
+        "role": "user",
+        "author": "murzik",
+        "text": "йоооооооооу",
+        "timestamp": "2026-04-08T16:05:54.670Z"
+      }
+    ],
+    "createdAt": "2026-04-08T16:05:54.670Z"
+  }
+]
