@@ -1,1 +1,10 @@
-[{"id":1775313045798,"code":"DVSPCGLL","role":"Старший админ","duration":"Навсегда","expiry":"2026-04-15T15:30:00","limit":5,"activations":[]}]
+{
+  "UPDATEYOO": {
+    "role": "Старший админ, Femboy",
+    "maxActivations": 3,
+    "activations": 0,
+    "usedBy": [],
+    "createdAt": "2026-04-08T16:03:59.988Z",
+    "expiresAt": "2026-04-08T18:00:00.000Z"
+  }
+}
