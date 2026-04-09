@@ -112,7 +112,7 @@
     "rawPassword": "Qasplk13579",
     "createdAt": "2026-03-30T15:24:02.855Z",
     "blocked": false,
-    "verified": true,
+    "verified": false,
     "mutedUntil": "2026-03-30T17:52:00.000Z",
     "activations": [
       "MB0FD872"
@@ -136,7 +136,7 @@
     "username": "norton",
     "passwordHash": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
     "role": "user",
-    "verified": false,
+    "verified": true,
     "muted": false,
     "mutedUntil": null,
     "banned": false,
