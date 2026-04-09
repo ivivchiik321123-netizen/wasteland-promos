@@ -1,1 +1,10 @@
-{}
+{
+  "EVENTFURRY": {
+    "role": "Модератор",
+    "maxActivations": 1,
+    "activations": 0,
+    "usedBy": [],
+    "createdAt": "2026-04-09T11:23:13.694Z",
+    "expiresAt": "2026-04-09T21:00:01.000Z"
+  }
+}
