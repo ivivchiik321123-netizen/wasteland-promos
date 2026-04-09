@@ -143,5 +143,18 @@
     "banned": false,
     "banReason": "",
     "registeredAt": "2026-04-08T16:10:10.795Z"
+  },
+  "nortonqqz": {
+    "username": "nortonqqz",
+    "passwordHash": "65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5",
+    "role": "user",
+    "verified": false,
+    "muted": false,
+    "mutedUntil": null,
+    "banned": false,
+    "banReason": "",
+    "registeredAt": "2026-04-09T19:29:32.784Z",
+    "securityQuestion": "Ruslan",
+    "securityAnswer": "ruslan"
   }
 }
