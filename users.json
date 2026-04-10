@@ -156,5 +156,18 @@
     "registeredAt": "2026-04-09T19:29:50.915Z",
     "securityQuestion": "Кого я люблю",
     "securityAnswer": "ruslan"
+  },
+  "хуй": {
+    "username": "хуй",
+    "passwordHash": "23cbf107e454a34ea98531121ed8818b084bc500152d0a1b3e29b8c3b7f346e6",
+    "role": "user",
+    "verified": false,
+    "muted": false,
+    "mutedUntil": null,
+    "banned": false,
+    "banReason": "",
+    "registeredAt": "2026-04-10T09:57:52.257Z",
+    "securityQuestion": "кс2",
+    "securityAnswer": "кс2"
   }
 }
