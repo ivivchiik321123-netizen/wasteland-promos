@@ -156,7 +156,10 @@
     "banReason": "",
     "registeredAt": "2026-04-09T19:29:50.915Z",
     "securityQuestion": "Кого я люблю",
-    "securityAnswer": "ruslan"
+    "securityAnswer": "ruslan",
+    "roles": [
+      "⭐Стафф-админ (нужно пройти собеседование)"
+    ]
   },
   "хуй": {
     "username": "хуй",
