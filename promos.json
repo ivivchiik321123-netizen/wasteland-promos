@@ -1,1 +1,10 @@
-{}
+{
+  "TOMMOROW??": {
+    "role": "⭐Стафф-админ (нужно пройти собеседование)",
+    "maxActivations": 3,
+    "activations": 0,
+    "usedBy": [],
+    "createdAt": "2026-04-10T14:55:34.046Z",
+    "expiresAt": "2026-04-10T18:00:01.000Z"
+  }
+}
