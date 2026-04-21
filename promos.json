@@ -2,8 +2,10 @@
   "UPDATESOON": {
     "role": "Модератор",
     "maxActivations": 3,
-    "activations": 0,
-    "usedBy": [],
+    "activations": 1,
+    "usedBy": [
+      "muralflaxx"
+    ],
     "createdAt": "2026-04-21T14:17:22.324Z",
     "expiresAt": "2026-04-21T17:00:00.000Z"
   }
