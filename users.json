@@ -173,5 +173,18 @@
     "registeredAt": "2026-04-10T09:57:52.257Z",
     "securityQuestion": "кс2",
     "securityAnswer": "кс2"
+  },
+  "yooshi": {
+    "username": "yooshi",
+    "passwordHash": "c6e50d226dcb56d0989f964be38a737ce1c447da0847a13d2f4eb4713ed02914",
+    "role": "user",
+    "verified": false,
+    "muted": false,
+    "mutedUntil": null,
+    "banned": false,
+    "banReason": "",
+    "registeredAt": "2026-04-21T14:20:09.429Z",
+    "securityQuestion": "Roblox",
+    "securityAnswer": "roblox"
   }
 }
