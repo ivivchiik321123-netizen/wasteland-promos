@@ -178,7 +178,7 @@
     "username": "yooshi",
     "passwordHash": "c6e50d226dcb56d0989f964be38a737ce1c447da0847a13d2f4eb4713ed02914",
     "role": "user",
-    "verified": false,
+    "verified": true,
     "muted": false,
     "mutedUntil": null,
     "banned": false,
