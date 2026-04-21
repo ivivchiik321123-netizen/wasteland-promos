@@ -37,8 +37,8 @@
     "activations": [
       "NEKIR3"
     ],
-    "banned": false,
-    "banReason": "",
+    "banned": true,
+    "banReason": "3.1 Взлом сайта, или попытка войти в панель администратора",
     "verified": false
   },
   "Vzlomhik_2005": {
