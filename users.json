@@ -187,5 +187,18 @@
     "registeredAt": "2026-04-21T14:20:09.429Z",
     "securityQuestion": "Roblox",
     "securityAnswer": "roblox"
+  },
+  "yrod": {
+    "username": "yrod",
+    "passwordHash": "cab9b2527c6bcdc8caccf3f9497ef98f2de53b4e9667c79889b30bbaea519a53",
+    "role": "user",
+    "verified": false,
+    "muted": false,
+    "mutedUntil": null,
+    "banned": false,
+    "banReason": "",
+    "registeredAt": "2026-04-24T17:17:26.718Z",
+    "securityQuestion": "CS2",
+    "securityAnswer": "cs2"
   }
 }
