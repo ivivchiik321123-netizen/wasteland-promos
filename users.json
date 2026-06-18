@@ -200,5 +200,18 @@
     "registeredAt": "2026-04-24T17:18:03.404Z",
     "securityQuestion": "CS2",
     "securityAnswer": "cs2"
+  },
+  "quasar": {
+    "username": "quasar",
+    "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user",
+    "verified": false,
+    "muted": false,
+    "mutedUntil": null,
+    "banned": false,
+    "banReason": "",
+    "registeredAt": "2026-06-18T15:30:23.332Z",
+    "securityQuestion": "1",
+    "securityAnswer": "1"
   }
 }
