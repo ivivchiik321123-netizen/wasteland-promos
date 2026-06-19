@@ -182,8 +182,8 @@
     "verified": true,
     "muted": false,
     "mutedUntil": null,
-    "banned": false,
-    "banReason": "",
+    "banned": true,
+    "banReason": "Устаревший акк владельца сайта",
     "registeredAt": "2026-04-21T14:20:09.429Z",
     "securityQuestion": "Roblox",
     "securityAnswer": "roblox"
